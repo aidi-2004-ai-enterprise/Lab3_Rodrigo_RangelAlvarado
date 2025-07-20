@@ -1,0 +1,1 @@
+![App demo](docs/Lab3.gif)
