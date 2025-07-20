@@ -1,1 +1,1 @@
-![App demo](docs/Lab3.gif)
+[Watch the demo video](./Video.mp4)
